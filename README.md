@@ -1,3 +1,5 @@
+# how to deploy To heroku
+
 **Get app ready**
 
 1. Specify version of node in package.json
